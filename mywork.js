@@ -13,7 +13,7 @@ let student= {
     email: "Nino.Khositashvili.1@iliauni.edu.ge",
     marks: 98
 }
-// დავალება 3
+// დავალება 3.
 console.log(student.firstName)
 
 // დავალება 4
